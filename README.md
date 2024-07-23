@@ -6,12 +6,6 @@
 - 🌱 I’m currently learning **Bash**
 - 📫 How to reach me **hello@kaveeshaanuhas.info**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.instagram.com/_kaveesha_anuhas_/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="AnuhasRox" /></a> 
-<a href="https://t.me/KaveeahaAnuhas" target="blank"><img src="https://img.shields.io/badge/Telegram-330F63?style=for-the-badge&logo=telegram&logoColor=white" alt="AnuhasRox" /></a> 
-<a href="https://play.google.com/store/apps/details?id=com.anuhas.quity" target="blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a></p>
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
