@@ -20,7 +20,7 @@
 <a href="https://https://mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySql" width="40" height="40"/> </a>
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnuhasRox&theme=tokyonight&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuhasreal&theme=tokyonight&show_icons=true" />
 
 
 <!--
